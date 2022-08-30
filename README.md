@@ -1,6 +1,11 @@
 # inf-tarea9
 ***1. OBJETIVOS***
 
+_Analizar los circuitos RCL, los tipos de resonancias y frecuencias
+
+_Estudiar circuitos RC y RL en paralelo y en serie
+
+_Diferenciar entre los tipos de filtros presentados en la tarea, comprendiendo sus usos
 
 ***2. MARCO TEÓRICO*** 
 
@@ -64,10 +69,11 @@
 
 ***4)Video***
 
-
+https://youtu.be/mMWbh9cywcQ
 
 ***5.Conclusiones***
 
+Como conclusión de este informe se puede decir que el analisis de los circuitos RCL es muy importante para el aprendizaje de la materia ya que este nos permite tener una mejor orientación para el analisis de los circuitos que se nos presenten. Para el caso de los filtros, estos seran importantes de distinguir entre los filtros de pasabajas y los filtros de pasaltas, cuales son sus funciones y características y sobretodo sus diferencias entre sí, con la realización de los ejercicios se pudo tener clara esta idea.
 
 ***6.Bibliografía***
 
