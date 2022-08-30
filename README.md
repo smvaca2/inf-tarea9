@@ -4,29 +4,21 @@
 
 ***2. MARCO TEÓRICO*** 
 
-![]()
+![](https://github.com/smvaca2/inf-tarea9/blob/9c2e39ca22bfd1b35480922cd5b3b29676f6e203/1.PNG)
 
-![]()
+![](https://github.com/smvaca2/inf-tarea9/blob/9c2e39ca22bfd1b35480922cd5b3b29676f6e203/2.PNG)
 
-![]()
+![](https://github.com/smvaca2/inf-tarea9/blob/9c2e39ca22bfd1b35480922cd5b3b29676f6e203/3.PNG)
 
-![]()
+![](https://github.com/smvaca2/inf-tarea9/blob/9c2e39ca22bfd1b35480922cd5b3b29676f6e203/4.PNG)
 
-![]()
+![](https://github.com/smvaca2/inf-tarea9/blob/9c2e39ca22bfd1b35480922cd5b3b29676f6e203/5.PNG)
 
-![]()
+![](https://github.com/smvaca2/inf-tarea9/blob/9c2e39ca22bfd1b35480922cd5b3b29676f6e203/6.PNG)
 
-![]()
+![](https://github.com/smvaca2/inf-tarea9/blob/9c2e39ca22bfd1b35480922cd5b3b29676f6e203/7.PNG)
 
-![]()
-
-![]()
-
-![]()
-
-![]()
-
-![]()
+![](https://github.com/smvaca2/inf-tarea9/blob/9c2e39ca22bfd1b35480922cd5b3b29676f6e203/8.PNG)
 
 ***3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS***
 
