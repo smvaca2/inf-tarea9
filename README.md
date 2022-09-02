@@ -69,7 +69,7 @@ _Diferenciar entre los tipos de filtros presentados en la tarea, comprendiendo s
 
 ***4)Video***
 
-vhttps://youtu.be/e-XmThIBTIY
+https://youtu.be/e-XmThIBTIY
 
 ***5.Conclusiones***
 
